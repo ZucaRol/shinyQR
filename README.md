@@ -1,4 +1,3 @@
-```txt
 # shinyQR - Un widget para escaneo de códigos QR en Shiny
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -94,4 +93,3 @@ Este paquete está bajo la licencia MIT. Consulta el archivo `LICENSE` para obte
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, siéntete libre de abrir issues o enviar pull requests al repositorio.
-```
