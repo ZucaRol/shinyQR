@@ -1,0 +1,14 @@
+Package: shinyQR
+Title: Widget de Escaneo de QR (Cliente)
+Version: 0.1.0
+Authors@R: person("Rolando", "Tamayo", email = "admi.romayo@gmail.com", role = c("aut", "cre"))
+Description: Este paquete permite integrar un lector de códigos QR en aplicaciones Shiny.
+  Utiliza la librería `html5-qrcode` para capturar códigos QR en tiempo real desde la cámara del dispositivo.
+License: GPL-3
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+Imports:
+    htmlwidgets
+Suggests:
+    shiny
+RoxygenNote: 7.3.2
